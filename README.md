@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://wallpapercave.com/w/wp2137406" alt="SelfBot-bailyes" width="300" />
+<img src="https://i.ibb.co/2Y4wSs8/wp2137406.webp" alt="SelfBot-bailyes" width="300" />
 
 Saya Hanya Recoder Ya wkwkwk Ampun Mastah
 # SelfBot-bailyes
