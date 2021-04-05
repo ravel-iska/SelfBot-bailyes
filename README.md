@@ -1,22 +1,24 @@
 <div align="center">
-<img src="https://i.ibb.co/xh1jJ9V/c04a33a54164.png" alt="BaseSelfBot" width="300" />
+<img src="https://wallpapercave.com/w/wp2137406" alt="SelfBot-bailyes" width="300" />
 
-# Base-SelfBot
+Saya Hanya Recoder Ya wkwkwk Ampun Mastah
+# SelfBot-bailyes
+# Github asli https://github.com/zenn08/BaseSelfBot
 
 >
 >
 >
 
 <p align="center">
-  <a href="https://github.com/zennn08"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/ravel-iska"><img title="Author" src="https://img.shields.io/badge/Author-ravel-iska-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zennn08/BaseSelfBot#requirements">Requirements</a> •
-  <a href="https://github.com/zennn08/BaseSelfBot#instalasi">Installation</a> •
-  <a href="https://github.com/zennn08/BaseSelfBot#features">Features</a> •
+  <a href="https://github.com/ravel-iska/SelfBot-bailyes#requirements">Requirements</a> •
+  <a href="https://github.com/ravel-iska/SelfBot-bailyes#instalasi">Installation</a> •
+  <a href="https://github.com/ravel-iska/SelfBot-bailyes#features">Features</a> •
   <a href="https://trakteer.id/aqulzz">Buy Me A Coffe</a> •
-  <a href="https://github.com/zennn08/BaseSelfBot#thanks-to">Thanks to</a>
+  <a href="https://github.com/ravel-iska/SelfBot-bailyes#thanks-to">Thanks to</a>
 </p>
 </div>
 
