@@ -3,14 +3,14 @@
 
 Saya Hanya Recoder Ya wkwkwk Ampun Mastah
 # SelfBot-bailyes
-# Github asli https://github.com/zenn08/BaseSelfBot
+# Github asli https://github.com/zennn08
 
 >
 >
 >
 
 <p align="center">
-  <a href="https://github.com/ravel-iska"><img title="Author" src="https://img.shields.io/badge/Author-ravel-iska-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/zennn08"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
